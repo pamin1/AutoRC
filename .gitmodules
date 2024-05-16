@@ -1,6 +1,8 @@
 [submodule "src/VINS-Fusion"]
 	path = src/VINS-Fusion
 	url = git@github.com:pamin1/VINS-Fusion.git
+	branch = main
 [submodule "src/rs_sub"]
 	path = src/rs_sub
 	url = git@github.com:pamin1/rs_sub.git
+	branch = main
