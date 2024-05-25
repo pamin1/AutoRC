@@ -6,3 +6,6 @@
 	path = src/rs_sub
 	url = git@github.com:pamin1/rs_sub.git
 	branch = main
+[submodule "src/rc_control"]
+	path = src/rc_control
+	url = git@github.com:pamin1/rc_control.git
